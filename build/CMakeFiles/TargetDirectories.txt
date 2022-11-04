@@ -1,0 +1,3 @@
+C:/Users/PCOW/Desktop/db/build/CMakeFiles/DB.dir
+C:/Users/PCOW/Desktop/db/build/CMakeFiles/edit_cache.dir
+C:/Users/PCOW/Desktop/db/build/CMakeFiles/rebuild_cache.dir

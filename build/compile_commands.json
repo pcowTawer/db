@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/PCOW/Desktop/db/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/PCOW/Desktop/db/mongo-cxx-driver/include/mongocxx/v_noabi -IC:/Users/PCOW/Desktop/db/mongo-cxx-driver/include/bsoncxx/v_noabi -g -o CMakeFiles\\DB.dir\\db.cpp.obj -c C:\\Users\\PCOW\\Desktop\\db\\db.cpp",
+  "file": "C:\\Users\\PCOW\\Desktop\\db\\db.cpp"
+}
+]

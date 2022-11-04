@@ -1,7 +1,3 @@
-
-// c++ --std=c++11 db.cpp  -I mongo-cxx-driver/include/bsoncxx/v_noabi/ -I mongo-cxx-driver/include/mongocxx/v_noabi/ -L mongo-cxx-driver/lib -lmongocxx -lbsoncxx -I mongo-cxx-driver/bin -I mongo-c-driver/bin -o db.exe
-
-
 #include <cstdint>
 #include <iostream>
 #include <vector>
